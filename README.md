@@ -1,0 +1,2 @@
+# googoogoo
+efforts with go
